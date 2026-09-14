@@ -8,13 +8,13 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/YOUR_H1)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_THM)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-mosleh-120609286)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sadcyberplayer)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/sadcyberplayer?type=user)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sadcyberplayer)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadcyberplayer@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=36BCF7&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sadcyberplayer&color=36BCF7&style=for-the-badge)
 
 </div>
 
@@ -22,13 +22,7 @@
 
 ### 👋 About Me
 
-I'm a self-taught cybersecurity enthusiast focused on **web application penetration testing** and **bug bounty hunting**. Currently studying Cybersecurity independently while building hands-on experience through certified training, CTF-style labs, and real bug bounty programs.
-
-- 🔭 Currently focused on: **Web Application Security & Recon Methodology**
-- 🌱 Currently learning: **Advanced Exploitation Techniques & CVE Research**
-- 🎯 Goal: Landing my first Information Security internship/role
-- 💬 Ask me about: Burp Suite, SQLi, XSS, recon automation
-- ⚡ Fun fact: I turn messy notes into organized attack playbooks
+I'm a self-taught cybersecurity enthusiast focused on a lot of topics in the cybersecurity world like **Web Applications Pentesting**, **Networks Pentesting**, **Mobile Applications Pentesting**, **bug bounty hunting** and more..
 
 ---
 
@@ -48,20 +42,7 @@ I'm a self-taught cybersecurity enthusiast focused on **web application penetrat
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="60%" />
-
-</div>
-
----
-
-### 🏆 Certifications
+### 🏆 Certifications (and still more in progress..)
 
 - TryHackMe — Pre Security
 - TryHackMe — Web Fundamentals
