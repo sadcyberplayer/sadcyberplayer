@@ -18,7 +18,7 @@
 
 I'm a self-taught cybersecurity enthusiast focused on a lot of topics in the cybersecurity world like **Web Applications Pentesting**, **Networks Pentesting**, **Mobile Applications Pentesting**, **bug bounty hunting** and more..
 
-### Tools & Technologies
+### Tools & Technologies..
 
 <div align="center">
 
@@ -32,25 +32,25 @@ I'm a self-taught cybersecurity enthusiast focused on a lot of topics in the cyb
 
 </div>
 
-### Skills
+### Skills..
 
-- **Tools:** Burp Suite, Python, Bash, Linux
-- **Networking:** Solid understanding of core networking fundamentals
-- **Reconnaissance:** Mastered — subdomain enumeration, vhost fuzzing, JS analysis, ASN mapping
-- **OWASP:** Mastered — Top 10 vulnerability classes and testing methodology
-- **AI Prompt Engineering:** Skilled in leveraging AI tools to accelerate learning and workflows
-- **Troubleshooting:** Strong problem-solving and debugging mindset
-- **Always expanding** — constantly adding new tools and techniques to this list
+- **Tools:** Burp Suite, Python, Bash and more..
+- **Networking:** Solid understanding of core networking fundamentals.
+- **Reconnaissance:** Mastered — subdomain enumeration, vhost fuzzing, JS analysis, ASN mapping and more..
+- **OWASP:** Mastered — Top 10 vulnerability classes and testing methodology.
+- **AI Prompt Engineering:** Skilled in leveraging AI tools to accelerate learning and workflows.
+- **Troubleshooting:** Strong problem-solving and debugging mindset.
+- **Always expanding** — constantly adding new tools and techniques to this list.
 
 ### Certifications (and still more in progress..)
 
-- TryHackMe — Pre Security
-- TryHackMe — Web Fundamentals
-- CyberTalents — Introduction to Cybersecurity Bootcamp
-- Programming Hub — IT Basics & Fundamentals Certification
+- TryHackMe — Pre Security.
+- TryHackMe — Web Fundamentals.
+- CyberTalents — Introduction to Cybersecurity Bootcamp.
+- Programming Hub — IT Basics & Fundamentals Certification.
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+love?;I+Love+Tech!;root%40kali%3A~%23+motto?;Don't+Give+Up!+%7C+see+You!;root%40kali%3A~%23+status?;Always+Learning%2C+Always+Hunting_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+love?;I+Love+Tech!;root%40kali%3A~%23+motto?;Don't+Give+Up!;root%40kali%3A~%23+status?;Always+Learning%2C+Always+Hunting_" alt="Typing SVG" />
 </a>
