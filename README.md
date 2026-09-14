@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Hi,%20I'm%20YOUR_NAME&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRxcnM4dm14ejU4NWxjeWxnbjI4dzVyOTZ2bzBuMWRsemI2bnFvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Web+Application+Pentester;Bug+Bounty+Hunter;Always+Learning%2C+Always+Hunting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+whoami;Cybersecurity+Enthusiast;root%40kali%3A~%23+skills;Web+App+Pentester+%7C+Bug+Bounty+Hunter;root%40kali%3A~%23+status;Always+Learning%2C+Always+Hunting_" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,7 +14,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sadcyberplayer)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadcyberplayer@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sadcyberplayer&color=36BCF7&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=sadcyberplayer&color=39FF14&style=for-the-badge)
 
 </div>
 
@@ -42,6 +42,18 @@ I'm a self-taught cybersecurity enthusiast focused on a lot of topics in the cyb
 
 ---
 
+### 🏆 Skills
+
+- 🛠️ **Tools:** Burp Suite, Python, Bash, Linux
+- 🌐 **Networking:** Solid understanding of core networking fundamentals
+- 🔍 **Reconnaissance:** Mastered — subdomain enumeration, vhost fuzzing, JS analysis, ASN mapping
+- 🛡️ **OWASP:** Mastered — Top 10 vulnerability classes and testing methodology
+- 🤖 **AI Prompt Engineering:** Skilled in leveraging AI tools to accelerate learning and workflows
+- 🧩 **Troubleshooting:** Strong problem-solving and debugging mindset
+- 📚 **Always expanding** — constantly adding new tools and techniques to this list
+
+---
+
 ### 🏆 Certifications (and still more in progress..)
 
 - TryHackMe — Pre Security
@@ -53,6 +65,6 @@ I'm a self-taught cybersecurity enthusiast focused on a lot of topics in the cyb
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=120&section=footer" />
 
 </div>
