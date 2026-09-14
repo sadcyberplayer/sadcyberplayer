@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRxcnM4dm14ejU4NWxjeWxnbjI4dzVyOTZ2bzBuMWRsemI2bnFvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXd1ejZxeTNqMXR6dnhzNzJubHpzMGF1YmJ6am9kZWVlOXZ1Ynl6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4UzW8S83pWoKs/giphy.gif" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+whoami;Cybersecurity+Enthusiast;root%40kali%3A~%23+skills;Web+App+Pentester+%7C+Bug+Bounty+Hunter;root%40kali%3A~%23+status;Always+Learning%2C+Always+Hunting_" alt="Typing SVG" />
@@ -65,6 +65,6 @@ I'm a self-taught cybersecurity enthusiast focused on a lot of topics in the cyb
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=120&section=footer" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFhanJzbWxxMjQ3aDJiMHI2Zmo4eG05ZHdnZjIzc2ZuOWpkdmQwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp3GUtG2waC88/giphy.gif" width="100%" />
 
 </div>
