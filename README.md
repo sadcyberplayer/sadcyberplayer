@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+whoami;Cybersecurity+Enthusiast;root%40kali%3A~%23+skills;Web+App+Pentester+%7C+Bug+Bounty+Hunter;root%40kali%3A~%23+status;Always+Learning%2C+Always+Hunting_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+whoami;Cybersecurity+Enthusiast;root%40kali%3A~%23+skills;Web+App+Pentester+&+Bug+Bounty+Hunter;root%40kali%3A~%23+status;Always+Learning%2C+Always+Hunting_" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,17 +12,11 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sadcyberplayer)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadcyberplayer@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=sadcyberplayer&color=39FF14&style=for-the-badge)
-
 </div>
-
----
 
 ### About Me..
 
 I'm a self-taught cybersecurity enthusiast focused on a lot of topics in the cybersecurity world like **Web Applications Pentesting**, **Networks Pentesting**, **Mobile Applications Pentesting**, **bug bounty hunting** and more..
-
----
 
 ### Tools & Technologies
 
@@ -38,8 +32,6 @@ I'm a self-taught cybersecurity enthusiast focused on a lot of topics in the cyb
 
 </div>
 
----
-
 ### Skills
 
 - **Tools:** Burp Suite, Python, Bash, Linux
@@ -50,8 +42,6 @@ I'm a self-taught cybersecurity enthusiast focused on a lot of topics in the cyb
 - **Troubleshooting:** Strong problem-solving and debugging mindset
 - **Always expanding** — constantly adding new tools and techniques to this list
 
----
-
 ### Certifications (and still more in progress..)
 
 - TryHackMe — Pre Security
@@ -59,10 +49,8 @@ I'm a self-taught cybersecurity enthusiast focused on a lot of topics in the cyb
 - CyberTalents — Introduction to Cybersecurity Bootcamp
 - Programming Hub — IT Basics & Fundamentals Certification
 
----
-
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+whoami;I+Love+Tech!;root%40kali%3A~%23+skills;Don't+Give+Up!+%7C+See+You!;root%40kali%3A~%23+status;Always+Learning%2C+Always+Hunting_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+love?;I+Love+Tech!;root%40kali%3A~%23+motto?;Don't+Give+Up!+%7C+see+You!;root%40kali%3A~%23+status?;Always+Learning%2C+Always+Hunting_" alt="Typing SVG" />
 </a>
