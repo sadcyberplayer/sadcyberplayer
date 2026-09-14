@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZ6aGkwN2twaTJneTBlY3kwNm0zZnV5NjE5YjBhZjhqMDczYWV4ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="60%" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+whoami;Cybersecurity+Enthusiast;root%40kali%3A~%23+skills;Web+App+Pentester+%7C+Bug+Bounty+Hunter;root%40kali%3A~%23+status;Always+Learning%2C+Always+Hunting_" alt="Typing SVG" />
 </a>
@@ -65,6 +63,6 @@ I'm a self-taught cybersecurity enthusiast focused on a lot of topics in the cyb
 
 <div align="center">
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd296bG5uNmJ5NHR1c3owaDJoYnF4MWYwNWhkcWg5aHMyaWxzYmR0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AOSwwqVjNZlDO/giphy.gif" width="60" />
-
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=650&lines=root%40kali%3A~%23+whoami;I+Love+Tech!;root%40kali%3A~%23+skills;Don't+Give+Up!+%7C+See+You!;root%40kali%3A~%23+status;Always+Learning%2C+Always+Hunting_" alt="Typing SVG" />
+</a>
