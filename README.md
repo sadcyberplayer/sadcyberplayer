@@ -11,6 +11,7 @@
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/sadcyberplayer?type=user)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/sadcyberplayer)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadcyberplayer@gmail.com)
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sadcyberplayer@proton.me)
 
 </div>
 
